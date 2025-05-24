@@ -1,0 +1,13 @@
+# Byte-compiled / temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+
+# VS Code / Thonny cache
+.vscode/
+.thonny/
+
+# Backup files
+*.bak
+*.swp
